@@ -17,3 +17,17 @@ Run the executable & enter your ROM's path
 ```powershell
 ./"CHIP-8 Emulator"
 ```
+
+ㅤ
+## Tested ROMs
+The following ROMs have been tested with this emulator :
+
+- Breakout [Carmelo Cortez, 1979].ch8
+- Hidden [David Winter, 1996].ch8
+- IBM Logo.ch8
+- Keypad Test [Hap, 2006].ch8
+- mini-lights-out.ch8
+- Pong (1 player).ch8
+- slipperyslope.ch8
+- Space Invaders [David Winter].ch8
+- Tetris [Fran Dachille, 1991].ch8
